@@ -1,0 +1,213 @@
+{
+  "users": [
+    {
+      "id": "3DYo9GzR7GQ"
+    },
+    {
+      "name": "test1",
+      "email": "test1@gmail.com",
+      "password": "123456",
+      "id": "Uyrn_e44d94"
+    },
+    {
+      "name": "test2",
+      "email": "test2@gmail.com",
+      "password": "123457",
+      "id": "cTJHaLeIvDo"
+    },
+    {
+      "name": "tanvi",
+      "email": "tanvigharde@gmail.com",
+      "password": "tanvigharde29",
+      "id": "AhiQfZzWvu8"
+    },
+    {
+      "name": "Maya",
+      "email": "maya24@gmail.com",
+      "password": "maya24",
+      "id": "RI2345Btk10"
+    },
+    {
+      "name": "Riya",
+      "email": "riyashah45@gmail.com",
+      "password": "riyshah45000",
+      "id": "tqkAmBmC-wg"
+    },
+    {
+      "name": "Rahul",
+      "email": "rahuljaiswal13@gmail.com",
+      "password": "rahulj13",
+      "id": "Y-z-04zTdck"
+    },
+    {
+      "name": "Tanishi",
+      "email": "tanishi29@gmail.com",
+      "password": "tanishi2429",
+      "id": "9SYvaTZYwNk"
+    }
+  ],
+  "employees": [
+    {
+      "name": "test1",
+      "description": "",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T11:36:00.034Z",
+      "id": "y3mV-TIv2v8"
+    },
+    {
+      "name": "test1",
+      "description": "here is my prject\n",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T11:36:18.639Z",
+      "id": "tauAPU87ZxI"
+    },
+    {
+      "name": "test2",
+      "description": "hehe",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T11:36:48.563Z",
+      "id": "ibay2wZPj3k"
+    },
+    {
+      "name": "test1",
+      "description": "here im",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T11:42:32.402Z",
+      "id": "4fW2MVGw7Yc"
+    },
+    {
+      "name": "test1",
+      "description": "",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T11:56:03.256Z",
+      "id": "23M3jUtTSzk"
+    },
+    {
+      "name": "test22",
+      "description": "",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T11:57:36.740Z",
+      "id": "p8NAvVgwATg"
+    },
+    {
+      "name": "task1",
+      "description": "",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T12:00:04.528Z",
+      "id": "Ln7XEiNKr3U"
+    },
+    {
+      "name": "test1",
+      "description": "",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T12:13:15.160Z",
+      "id": "kw49t4ZfSZE"
+    },
+    {
+      "name": "rest",
+      "description": "done here",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T12:37:43.312Z",
+      "id": "-whLxtkt3mw"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Login Page",
+      "description": "Create login UI",
+      "status": "Todo",
+      "priority": "High"
+    },
+    {
+      "title": "test",
+      "description": "",
+      "projectId": null,
+      "assignedTo": 1,
+      "priority": "Medium",
+      "status": "Todo",
+      "dueDate": "",
+      "id": "O1edTjndk-Q"
+    },
+    {
+      "title": "today manual",
+      "description": "it must be done by today itself",
+      "projectId": null,
+      "assignedTo": 2,
+      "priority": "High",
+      "status": "Review",
+      "dueDate": "",
+      "id": "PnRl60_vC4M"
+    },
+    {
+      "title": "today manual",
+      "description": "",
+      "projectId": null,
+      "assignedTo": 3,
+      "priority": "Medium",
+      "status": "Completed",
+      "dueDate": "",
+      "id": "jHgxHSi4cnM"
+    }
+  ],
+  "projects": [
+    {
+      "name": "test3",
+      "description": "verify now",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T12:48:36.621Z",
+      "id": "X-2BcDUXueY"
+    },
+    {
+      "name": "social marketing",
+      "description": "through meta for video editing, photoshop",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T13:31:31.426Z",
+      "id": "0Id6uWRzy6c"
+    },
+    {
+      "name": "advertising",
+      "description": "through multimedia, socializing",
+      "createdBy": 1,
+      "members": [
+        1
+      ],
+      "createdAt": "2026-10-31T13:38:31.399Z",
+      "id": "GbsyIR2mhA8"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
